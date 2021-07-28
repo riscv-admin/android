@@ -26,6 +26,8 @@
     - Zheng: Call for suggestions and volunteers
 
 # Actions
-Google need HW before joinning, who can give a board
-How many tests are still failling in CTS
-David will introduce Google US window with Mark for Android partnership
+Google need HW before joinning, who can give a board.
+
+How many tests are still failling in CTS.
+
+David will introduce Google US window with Mark for Android partnership.
